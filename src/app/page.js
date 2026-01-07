@@ -2,8 +2,7 @@ import CategoryHighlights from "@/components/home/ CategoryHighlights";
 import PayementGateway from "@/components/home/ PyamentGateway";
 import CartHeader from "@/components/home/CartHeader";
 import RecommendedProductsSection from "@/components/home/RecommendedProductsSection";
-import Drawer from "@/components/header/Drawer";
-import { Section } from "lucide";
+ 
  export default function Home() {
   return (
     <div className="w-full   bg-white  mx-auto ">
